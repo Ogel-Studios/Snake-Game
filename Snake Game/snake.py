@@ -1,1 +1,0 @@
-#Manages the snake's body, movement, direction, and growth.
